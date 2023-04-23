@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="heading_of_main_activity">Our First APP in Android Studio</string>
+    <string name="make_a_toast_delete">Make a toast \'delete\'</string>
+    <string name="make_a_toast_send">Make a toast \'send\'</string>
+    <string name="go_to_next_activity">Go to next activity</string>
+    <string name="go_to_previous_activity">Go to Previous Activity</string>
+</resources>
